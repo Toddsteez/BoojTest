@@ -1,0 +1,223 @@
+.topBlock {
+    margin-right: 40px;
+}
+
+.navbar-brand {
+    display: inline;
+    white-space: nowrap;
+}
+
+#topLogo {
+    left: 2em;
+    padding-top: 30px;
+    position: relative;
+}
+
+.topRightNav {
+    float: right;
+}
+
+.topContact {
+    display: inline-block;
+    justify-content: end;
+    margin-right: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.contactImg {
+    color: #5CA3AF;
+    display: top;
+}
+
+#contact {
+    color: #6E6E6E;
+    display: block;
+}
+
+.topAccount {
+    display: inline-block;
+    justify-content: end;
+    margin-right: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.accountImg {
+    color: #5CA3AF;
+    display: top;
+}
+
+#account {
+    color: #6E6E6E; 
+    display: block;
+}
+
+.form-inline {
+    padding-left: 140px;
+}
+
+#searchBtn {
+    background-color: #3B7277;
+    color: white;
+    /* padding: .375rem 20px .75rem 20px; */
+    margin-left: 10px;
+}
+
+/* .topNav:hover {
+    text-decoration: underline;
+} */
+
+/* .sCsa {
+    color: #333333;
+} */
+
+#grayNavbar {
+    background-color: #AAAAAA;
+    box-shadow: 0px 10px 30px 0px #DCDBDD;
+    opacity: .9;
+}
+
+.topNav {
+    color: #3F3F3F;
+}
+
+#mainNavbar {
+    color: white;
+    margin-left: 130px;
+    text-decoration: underline;
+}
+
+.openHouses {
+    margin: 0 70px 0 70px;
+}
+
+#searchInput {
+    /* font-size:  */
+}
+
+.personalMain {
+    background-color: #EEEEEE;
+    opacity: .9;
+}
+
+#jane {
+    max-height: 100%;
+    max-width: 100%;
+    padding-right: 50px;
+}
+
+.name {
+    display: inline-block;
+    font-size: 30px;
+    margin-left: -15px;
+    margin-top: 50px;
+}
+
+.title {
+    display: inline-block;
+    font-size: .8em;
+    margin-left: -15px;
+    margin-top: 15px;
+}
+#contactBtn {
+    background-color: #3B7277;
+    color: white;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+#realtorSym {
+    border: 1px solid black;
+    border-radius: 50%;
+    font-size: .6em;
+}
+
+.smRow {
+    color: #595959;
+    margin-top: 25px;
+    max-width: 233.33px;
+}
+
+.phoneNum {
+    display: inline-block;
+    margin-top: 50px;
+}
+
+#phoneNum {
+    margin-left: 25px;
+}
+
+/* #phone {
+    font-size: 1.2em;
+} */
+
+.websiteVisit {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+#websiteVisit {
+    margin-left: 15px;
+}
+
+.office {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+#office {
+    margin-left: 15px;
+}
+
+.newsletter {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+#newsletter {
+    margin-left: 15px;
+}
+
+.thirdTile {
+    color: #3B7277;
+    font-weight: 500;
+}
+
+.aboutMe {
+    border-bottom: 2px solid #3B7277;
+    color: #3B7277;
+}
+
+.underlineBar {
+    border-bottom: 2px solid #BDBDBD;
+    color: #BDBDBD;
+    font-size: 1.3em;
+    margin-top: 40px;
+}
+
+.bigPara {
+    color: #434343;
+    margin-top: 40px;
+    opacity: .8;
+}
+
+.langDeAll {
+    padding-left: 130px;
+}
+
+.langDe {
+    color: #313131;
+    font-weight: 700;
+    margin-top: 40px;
+    opacity: .9;
+}
+
+#lang {
+    margin-top: 40px;
+}
+
+.pText {
+    color: #434343;
+    opacity: .8;    
+}
